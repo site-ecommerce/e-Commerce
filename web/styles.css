@@ -8,7 +8,7 @@ and open the template in the editor.
     Author     : MAXIME
 */
 
-@import url(/WEB-INF/Ressources/css/foundation.css);
-@import url(/WEB-INF/Ressources/css/foundation.min.css);
-@import url(/WEB-INF/Ressources/css/normalize.css);
+@import url(ressources/css/foundation.css);
+@import url(ressources/css/foundation.min.css);
+@import url(ressources/css/normalize.css);
 
